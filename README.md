@@ -11,11 +11,12 @@ The purpose of the application is to offer a service in exchange for another ser
 This application is non-profit and aims to help each person in his quotient.
 
 ## Author
-[Shimon Mimoun](https://github.com/ShimonMimoun) -[Contact](mailto:shimon1705@gmail.com)
+[Dylan Amselem](https://github.com/) -[Contact]()
+[Dylan Amselem](https://github.com/) -[Contact](mailto::)
 
-[Naomi Oyer](https://github.com/NaomiO)-[Contact](naomioyer95@gmail.com)
+[Raphaek Cohen](https://github.com/)-[Contact]()
 
-[Omer Paz](https://github.com/omerpaz1) -[Contact](omerpaz93@gmail.com)
+
 
 ##  Built With
 [Android Studio](https://developer.android.com/studio/?gclid=CjwKCAiA8qLvBRAbEiwAE_ZzPastymvPMHVYr11FGfbx5wJFjzZ-34ZvL5jDXY-WROwxh6CK4aHlVhoCG1sQAvD_BwE) - Build Code
