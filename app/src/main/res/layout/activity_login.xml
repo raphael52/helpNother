@@ -21,7 +21,7 @@
             android:layout_width="match_parent"
             android:layout_height="53dp"
             android:fontFamily="@font/damion"
-            android:text="Give&amp;Take"
+            android:text="helpNother"
             android:textAlignment="center"
             android:textColor="@android:color/black"
             android:textSize="42sp" />

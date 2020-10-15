@@ -28,7 +28,7 @@
         android:layout_height="56dp"
         android:background="@android:color/white"
         android:fontFamily="@font/damion"
-        android:text="Give&amp;Take"
+        android:text="helpNother"
         android:textAlignment="center"
         android:textColor="@color/orange"
         android:textSize="@dimen/app_name_size" />
