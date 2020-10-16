@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/login"
+    android:background="@drawable/loginnn"
     tools:context=".Start_Application">
 
 
@@ -46,7 +46,7 @@
         android:layout_height="50dp"
 
         android:background="@drawable/bouton"
-        android:text="Regisiter"
+        android:text="Register"
         android:textColor="@android:color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

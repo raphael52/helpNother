@@ -67,10 +67,6 @@ private EditText emailboxLogin;
 
 
 
-
-
-
-
                 progressBar.setVisibility(View.VISIBLE);
 
                 FirebaseAuth.getInstance().sendPasswordResetEmail(email)
