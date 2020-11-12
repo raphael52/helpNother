@@ -7,23 +7,23 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.android.giveandtake.home.HomeFragment"
+        android:name="com.android.helpNother.home.HomeFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="com.android.giveandtake.Center.CenterFragment"
+        android:name="com.android.helpNother.Center.CenterFragment"
         android:label="@string/title_dashboard"
         tools:layout="@layout/fragment_center" />
     <fragment
         android:id="@+id/navigation_history"
-        android:name="com.android.giveandtake.History.HistoryFragment"
+        android:name="com.android.helpNother.History.HistoryFragment"
         android:label="@string/history"
         tools:layout="@layout/fragment_history"/>
     <fragment
         android:id="@+id/navigation_notifications"
-        android:name="com.android.giveandtake.Profil.ProfileFragment"
+        android:name="com.android.helpNother.Profil.ProfileFragment"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_profile" />
 </navigation>
