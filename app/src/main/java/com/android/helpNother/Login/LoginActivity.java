@@ -101,7 +101,7 @@ public class LoginActivity extends AppCompatActivity {
 
                                 if (task.isSuccessful()) {
 
-                                    String currentUserID = "nDk5cYyLV6Vjpt858AQDF1VNClr2";
+                                    String currentUserID = "W6SuYDyxH2gumW8kKSp3FLHibrN2";
 
                                     if (firebaseAuth.getCurrentUser().getUid().equals(currentUserID)) {
                                         startActivity(new Intent(LoginActivity.this, AdminConnect.class)
